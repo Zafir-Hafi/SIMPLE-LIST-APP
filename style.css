@@ -1,0 +1,17 @@
+/* styles.css */
+.app {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#itemList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#itemList li {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
